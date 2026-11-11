@@ -150,3 +150,17 @@ Unmatched placeholders remain in the document so they can be addressed manually.
 ## License
 
 This project is available for personal learning, modification, and use. You may adapt the VBA modules to suit your own document automation requirements.
+
+## Development Note
+
+AI-assisted development. The code was reviewed and tested by the author.
+<br>
+*
+
+<p align="center">
+  <a href="https://github.com/arrianmunsod">
+    <strong>← BACK TO ARRIAN'S GITHUB PROFILE</strong>
+  </a>
+  <br>
+  <sub>Explore more projects, scripts, and technical documentation.</sub>
+</p>
